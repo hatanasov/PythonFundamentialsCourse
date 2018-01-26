@@ -1,0 +1,839 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lisT_",
+				"list_of_numbers"
+			],
+			[
+				"second",
+				"second\tstatement"
+			],
+			[
+				"inp",
+				"inp_1"
+			],
+			[
+				"get",
+				"get_triangle_area\tfunction"
+			],
+			[
+				"he",
+				"header_row"
+			],
+			[
+				"ali",
+				"aliens"
+			],
+			[
+				"num",
+				"number_aliens_x"
+			],
+			[
+				"game",
+				"game_settings"
+			],
+			[
+				"up",
+				"update_bullets\t(game_functions.py)"
+			],
+			[
+				"bullet_",
+				"bullet_allowed\t(settings.py)"
+			],
+			[
+				"bull",
+				"bullets"
+			],
+			[
+				"bul",
+				"bullets"
+			],
+			[
+				"bll",
+				"bullet"
+			],
+			[
+				"dra",
+				"draw_bullet\tfunction"
+			],
+			[
+				"draw",
+				"draw_bullet\t(bullet.py)"
+			],
+			[
+				"ga",
+				"game_settings\t(starwars.py)"
+			],
+			[
+				"mov",
+				"moving_down\tstatement"
+			],
+			[
+				"movi",
+				"moving_up\tstatement"
+			],
+			[
+				"che",
+				"check_keyup_events"
+			],
+			[
+				"scree",
+				"screen_rect\tstatement"
+			],
+			[
+				"shi",
+				"ship_speed_factpr\t(settings.py)"
+			],
+			[
+				"u",
+				"update\tfunction"
+			],
+			[
+				"KE",
+				"KEYUP\tinstance"
+			],
+			[
+				"mo",
+				"moving_right\t(ship.py)"
+			],
+			[
+				"bli",
+				"blit_space\t(space.py)"
+			],
+			[
+				"spa",
+				"space_img"
+			],
+			[
+				"ceter",
+				"centerx"
+			],
+			[
+				"sc",
+				"scren_heigh\tstatement"
+			],
+			[
+				"asser",
+				"assertEqual\tfunction"
+			],
+			[
+				"asse",
+				"assertEqual\tfunction"
+			],
+			[
+				"Ca",
+				"TestCase\tclass"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"ass",
+				"assertIn\tfunction"
+			],
+			[
+				"show",
+				"show_question\tfunction"
+			],
+			[
+				"sh",
+				"show_question\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "list_of_numbers = [int(num) for num in input().split()]",
+			"file": "smallestnum.py",
+			"file_size": 0,
+			"file_write_time": 131612725042365144,
+			"settings":
+			{
+				"buffer_size": 55,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "hristo@linux-mint ~/PythonFundamentialsCourse $                                                                      \nhristo@linux-mint ~/PythonFundamentialsCourse $                                                                      \nhristo@linux-mint ~/PythonFundamentialsCourse $                                                                      \n                                                                                                                     \n                                                                                                                     \n                                                                                                                     \n                                                                                                                     \n                                                                                                                     \n                                                                                                                     \n                                                                                                                     \n",
+			"settings":
+			{
+				"buffer_size": 1180,
+				"line_ending": "Unix",
+				"name": "Terminal (bash)",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 66.0,
+		"last_filter": "command",
+		"selected_items":
+		[
+			[
+				"command",
+				"Preferences: Terminal View: Palette Commands"
+			],
+			[
+				"nal ve",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termi",
+				"Preferences: Terminal View: Color Scheme"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"repl: p",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packet con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"python ",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 237.0,
+		"history":
+		[
+			"a",
+			"a = 10",
+			"a",
+			"dassa",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hristo/PythonFundamentialsCourse"
+	],
+	"file_history":
+	[
+		"/home/hristo/PythonFundamentialsCourse/multiplylist.py",
+		"/home/hristo/PythonFundamentialsCourse/sumlist.py",
+		"/home/hristo/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/hristo/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/hristo/PythonFundamentialsCourse/checknumbers.py",
+		"/home/hristo/PythonFundamentialsCourse/scrach.py",
+		"/home/hristo/PythonFundamentialsCourse/evenandodds.py",
+		"/home/hristo/PythonFundamentialsCourse/factorial.py",
+		"/home/hristo/PythonFundamentialsCourse/comparation.py",
+		"/home/hristo/PythonFundamentialsCourse/trianglearea.py",
+		"/home/hristo/PythonFundamentialsCourse/mathpower.py",
+		"/home/hristo/PythonFundamentialsCourse/CryptoTest.py",
+		"/home/hristo/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/User/Python3.6.sublime-build",
+		"/home/hristo/PythonFundamentialsCourse/cashrecipt.py",
+		"/home/hristo/PythonFundamentialsCourse/triangle.py",
+		"/home/hristo/PythonFundamentialsCourse/sprint.py",
+		"/home/hristo/PythonFundamentialsCourse/triangle",
+		"/home/hristo/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/hristo/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/hristo/PythonFundamentialsCourse/cryptographer.py",
+		"/home/hristo/PythonFundamentialsCourse/pythoninitial.py",
+		"/home/hristo/.config/sublime-text-3/Packages/Anaconda/README.md",
+		"/home/hristo/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/home/hristo/.config/sublime-text-3/Packages/User/All Autocomplete.sublime-settings",
+		"/home/hristo/PycharmProjects/visualdata/sitka_weather_07-2014.csv",
+		"/home/hristo/PycharmProjects/datavisual/mpl_squares.py",
+		"/home/hristo/PycharmProjects/datavisual/legend.py",
+		"/home/hristo/PycharmProjects/datavisual/datavisual.sublime-project",
+		"/home/hristo/PycharmProjects/starwars/alien.py",
+		"/home/hristo/PycharmProjects/starwars/ship.py",
+		"/home/hristo/PycharmProjects/starwars/bullet.py",
+		"/home/hristo/PycharmProjects/starwars/settings.py",
+		"/home/hristo/PycharmProjects/starwars/game_functions.py",
+		"/home/hristo/PycharmProjects/starwars/starwars.py",
+		"/home/hristo/PycharmProjects/starwars/space.py",
+		"/home/hristo/PycharmProjects/starwars/testpygame.py",
+		"/home/hristo/PycharmProjects/alien_invasion/alien_invasion.py",
+		"/home/hristo/PycharmProjects/alien_invasion/ship.py",
+		"/home/hristo/PycharmProjects/alien_invasion/game_functions.py",
+		"/home/hristo/PycharmProjects/alien_invasion/settings.py",
+		"/home/hristo/PycharmProjects/UnitTests/test_survey.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"documentation",
+			" ",
+			"6",
+			"):\n",
+			" ",
+			"repl",
+			"python",
+			" ",
+			"repl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "smallestnum.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1180,
+						"regions":
+						{
+							"0,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										17
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"0,17":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										17,
+										47
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"0,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_red"
+							},
+							"1,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										118,
+										135
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"1,17":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										135,
+										165
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"10,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"11,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"13,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"13,17":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"16,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"17,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"19,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"19,17":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"2,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										236,
+										253
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"2,17":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										253,
+										283
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"3,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"7,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"9,51":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							}
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"default_dir": "/home/hristo/PythonFundamentialsCourse",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/home/hristo/PythonFundamentialsCourse",
+								"keep_open": false,
+								"syntax": null,
+								"title": "Terminal (bash)"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								2,
+								48
+							],
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.720698254364,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 121.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.6.sublime-build",
+	"project": "softUni.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/PycharmProjects/visualdata/temperature.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"16":
+				{
+					"group": 0,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
